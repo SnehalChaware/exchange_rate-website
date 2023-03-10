@@ -39,15 +39,4 @@ const country = new mongoose.Schema({
 });
 ```
 
-## Contributors
 
-<<<<<<< HEAD
-BT20CSE027 - Snehal Chaware
-=======
-Hackathon Team 5:
-Kishan Rakesh Verma
-Shivam Diwal Padwal
-Solleti Likhith Sanjay
-Sejal Vivek Kala
-Amaan Athar Khan
->>>>>>> aab8e1e (add readme)
